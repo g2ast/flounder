@@ -135,7 +135,7 @@ add_action( 'wp_enqueue_scripts', 'flounder_scripts' );
  * @return string Font stylesheet or empty string if disabled.
  */
 function flounder_fonts_url() {
-	$fonts_url = '';
+	$fonts_url = ''; return $fonts_url;
 
 	/* Translators: If there are characters in your language that are not
 	 * supported by Source Sans Pro, translate this to 'off'. Do not translate

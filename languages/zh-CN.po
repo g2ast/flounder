@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Flounder-russian\n"
 "POT-Creation-Date: 2013-11-28 14:54+0600\n"
-"PO-Revision-Date: 2014-06-23 18:10+0800\n"
+"PO-Revision-Date: 2014-06-23 20:08+0800\n"
 "Last-Translator: Alexander Goncharov <luzlol17@gmail.com>\n"
 "Language-Team: luzlol.me theme <luzlol17@gmail.com>\n"
 "Language: ru\n"
@@ -42,7 +42,7 @@ msgstr "作者归档: %s"
 
 #: archive.php:48
 msgid "Asides"
-msgstr "Заметки"
+msgstr "Asides"
 
 #: archive.php:51
 msgid "Images"
